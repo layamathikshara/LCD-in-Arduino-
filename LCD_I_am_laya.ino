@@ -1,3 +1,10 @@
+/*
+Project: LCD
+Author: Laya Mathikshara M
+Date Created: 23-05-2018
+Compontents: Arduino UNO, LCD
+*/
+
 #include <LiquidCrystal.h>
 LiquidCrystal dot_matrix(12,11,5,4,3,2);
 #These are the are the matrix numbers that will glow.
